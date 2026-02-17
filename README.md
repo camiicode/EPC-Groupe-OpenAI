@@ -1,4 +1,4 @@
-# 🤖 Agente Virtual Web – Cement Design
+# 🤖 Agente Virtual Web
 
 Proyecto de desarrollo del **Chatbot Web** basado en **OpenAI AgentKit**, integrado con el ecosistema **Odoo 17** de Cement Design.
 
